@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "name": "Iphone 8 plus",
+      "description": "Apple, 326GB, RAM 16G",
+      "price": "2.8",
+      "category_id": "1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Iphone 8 Max",
+      "description": "Apple, 326GB, RAM 8G",
+      "price": 1.9,
+      "category_id": 2
+    },
+    {
+      "name": "Iphone XS Max",
+      "description": "Apple, 326GB, RAM 8G",
+      "price": 2,
+      "category_id": 3,
+      "id": 3
+    },
+    {
+      "name": "Iphone 14 proMax",
+      "description": "Apple, 326GB, RAM 32G",
+      "price": 3,
+      "category_id": 4,
+      "id": 4
+    },
+    {
+      "name": "Samsung",
+      "description": "Samsung, 326GB, RAM 16G",
+      "price": "4000000",
+      "category_id": "2",
+      "id": 5
+    },
+    {
+      "name": "Iphone 11 pro Max",
+      "description": "Apple, 326GB, RAM 8G",
+      "price": 22.33,
+      "category_id": 3,
+      "id": 7
+    },
+    {
+      "name": "Iphone 11 pro Max",
+      "description": "Apple, 326GB, RAM 8G",
+      "price": 22.33,
+      "category_id": 3,
+      "id": 8
+    }
+  ]
+}
